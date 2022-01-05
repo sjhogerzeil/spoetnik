@@ -1,0 +1,4 @@
+FLASK_APP=spoetnik.py
+DATABASE_USERNAME="neo4j"
+DATABASE_PASSWORD="0y-VrN9N2PB6cZPIJMcziXCWQ259xyGQU3414vG3wp8"
+DATABASE_URL="neo4j+s://cf84ddd4.databases.neo4j.io"
